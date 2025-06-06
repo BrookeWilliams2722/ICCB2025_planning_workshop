@@ -1,0 +1,1 @@
+This is the github repositiory for the spatial planning component of the ICCB 2025 Brisbane SEQ Koala case study workshop. Associated materials for this part of the workshop can be found here: https://docs.google.com/document/d/15le0kx3n-C6hevoJ7zWs-kxWQd1YlW6joY3pRtJU4Ds/edit?usp=sharing
