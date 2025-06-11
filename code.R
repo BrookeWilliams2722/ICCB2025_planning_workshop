@@ -135,5 +135,5 @@ mean(rpz_target_spp_s3$relative_shortfall)
 #Scenario 4
 rpz_target_spp_s4 <- eval_target_coverage_summary(p, s4) 
 mean(rpz_target_spp_s4$relative_held)
-mean(rpz_target_spp_s4$relative_shortfall)
+mean(rpz_target_spp_s4$relative_shortfall)  
 
