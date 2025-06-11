@@ -107,6 +107,9 @@ p <- problem(PU, spp) %>%
 s4 <- solve(p)
 plot(s4)
 
+# Export to GeoTIFF
+writeRaster(s4, "scenario_4.tif", overwrite = TRUE)
+
 # Plot all scenarios side by side
 # Set plotting area to 1 row, 4 columns
 par(mfrow = c(2, 2), mar = c(3, 3, 3, 1))  # 2 rows, 2 columns
